@@ -59,6 +59,7 @@ footer {
   height:100%;
   align-items: center;
   overflow: hidden;
+  border-radius: 1.4%;
 }
 .tile img {
   /* TODO: MODULE_CARDS */
@@ -66,7 +67,7 @@ footer {
   height:100%;
   width:100%;
  cursor: pointer;
- transition: 0.3s all;
+ transition: 0.2s all;
 }
 .tile img:hover {
   /* TODO: MODULE_CARDS */
